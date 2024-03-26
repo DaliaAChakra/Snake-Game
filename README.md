@@ -14,4 +14,4 @@ Install Python on your system by following these steps:
 - You should see the version of Python you installed printed to the screen. This confirms that Python has been successfully installed.
 
 
-By the following the above steps, you'll be able to run and enjoy the game.
+By following the above steps, you'll be able to run and enjoy the game.
